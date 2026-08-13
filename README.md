@@ -3,7 +3,8 @@
 Deep learning model for automated detection of multiple knee abnormalities from MRI studies.
 
 The model processes multiple MRI series and multiple slices per series using a ResNet50 backbone combined with a two-stage Attention-based Multiple Instance Learning (MIL) architecture.
-
+---
+The model is Available through this link https://kaggle.com/datasets/f5b19fa832f184bf715c62947527871a4afd82e7c81372231bcb23fe0c05f6de
 ---
 
 ## Overview
